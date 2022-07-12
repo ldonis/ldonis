@@ -11,10 +11,7 @@ You can get in touch with me by email at [emc2@ldonis.com](mailto:emc2@ldonis.co
 
 <br>
 
-<!--
+![Luis Donis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldonis&count_private=true&theme=city_lights&show_icons=true)
 
-![Luis Donis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldonis&count_private=true&show_icons=true)
 
-![Luis Donis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldonis&layout=compact)
-
--->
+![Luis Donis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldonis&layout=compact&count_private=true&theme=city_lights&show_icons=true)
