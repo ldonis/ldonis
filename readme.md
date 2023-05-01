@@ -7,7 +7,7 @@ I love books, science fiction movies and horror stories.
 
 <br />
 
-I am the creator and founder of projects like: [Lesli](https://www.lesli.tech), [ProjectRaven](https://www.raven.gt/) and [DatenBanken](https://datenbanken.dev/).
+I am the creator and founder of projects like: [Lesli](https://lesli.dev/), [DatenBanken](https://datenbanken.dev/) and [ProjectRaven](https://www.raven.gt/).
 
 <br />
 
