@@ -5,10 +5,14 @@
 Entrepreneur, dreamer, software developer with +10 years of experience, focused on build amazing software solutions.  
 I love books, science fiction movies and horror stories.
 
-I am currently working as a lead developer for a Guatemalan/German company, which I am in love with.
+<br />
+
+I am the creator and founder of projects like: [Lesli](https://www.lesli.tech), [ProjectRaven](https://www.raven.gt/) and [DatenBanken](https://datenbanken.dev/).
+
+<br />
 
 You can get in touch with me by email at [emc2@ldonis.com](mailto:emc2@ldonis.com), Twitter ([@lgdonis](https://twitter.com/lgdonis)), and [LinkedIn](https://www.linkedin.com/in/ldonis/).
 
-<br>
+<br /> <br /> <br />
 
-![Luis Donis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldonis&layout=compact&count_private=true&theme=city_lights&show_icons=true)
+<h4 align="center">* * *Currently open for job opportunigies.* * *</h4>
