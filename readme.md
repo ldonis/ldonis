@@ -12,9 +12,3 @@ I am the creator and founder of projects like: [Lesli](https://lesli.dev/), [Dat
 <br />
 
 You can get in touch with me by email at [emc2@ldonis.com](mailto:emc2@ldonis.com), Twitter ([@lgdonis](https://twitter.com/lgdonis)), and [LinkedIn](https://www.linkedin.com/in/ldonis/).
-
-<br /> <br /> 
-
-<h4 align="center">* * *Currently open for job opportunigies.* * *</h4>
-
-<br /> <br />
