@@ -1,7 +1,5 @@
 ### Hi there! I'm Luis Donis <a href="https://www.ldonis.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></a>
 
-
-### About Me
 Entrepreneur, dreamer, software developer with +10 years of experience, focused on build amazing software solutions.  
 I love books, science fiction movies and horror stories.
 
